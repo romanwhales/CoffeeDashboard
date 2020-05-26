@@ -1,0 +1,3 @@
+export const GET_ROAST_PROFILES = 'roastProfiles/GET_ROAST_PROFILES';
+export const GET_ROAST_PROFILES_SUCCESS = 'roastProfiles/GET_ROAST_PROFILES_SUCCESS';
+export const GET_ROAST_PROFILES_FAILED = 'roastProfiles/GET_ROAST_PROFILES_FAILED';

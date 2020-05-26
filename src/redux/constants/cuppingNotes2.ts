@@ -1,0 +1,3 @@
+export const GET_CUPPING_NOTES_2 = 'cuppingNotes2/GET_CUPPING_NOTES_2';
+export const GET_CUPPING_NOTES_2_SUCCESS = 'cuppingNotes2/GET_CUPPING_NOTES_2_SUCCESS';
+export const GET_CUPPING_NOTES_2_FAILED = 'cuppingNotes2/GET_CUPPING_NOTES_2_FAILED';
